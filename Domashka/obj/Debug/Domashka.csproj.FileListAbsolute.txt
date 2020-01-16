@@ -1,0 +1,26 @@
+C:\Users\Maxsi\source\repos\Domashka\Domashka\bin\Debug\Domashka.exe.config
+C:\Users\Maxsi\source\repos\Domashka\Domashka\bin\Debug\Domashka.exe
+C:\Users\Maxsi\source\repos\Domashka\Domashka\bin\Debug\Domashka.pdb
+C:\Users\Maxsi\source\repos\Domashka\Domashka\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\Maxsi\source\repos\Domashka\Domashka\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\Users\Maxsi\source\repos\Domashka\Domashka\obj\Debug\Domashka.csprojAssemblyReference.cache
+C:\Users\Maxsi\source\repos\Domashka\Domashka\obj\Debug\Domashka.Form1.resources
+C:\Users\Maxsi\source\repos\Domashka\Domashka\obj\Debug\Domashka.Properties.Resources.resources
+C:\Users\Maxsi\source\repos\Domashka\Domashka\obj\Debug\Domashka.csproj.GenerateResource.cache
+C:\Users\Maxsi\source\repos\Domashka\Domashka\obj\Debug\Domashka.csproj.CoreCompileInputs.cache
+C:\Users\Maxsi\source\repos\Domashka\Domashka\obj\Debug\Domashka.csproj.CopyComplete
+C:\Users\Maxsi\source\repos\Domashka\Domashka\obj\Debug\Domashka.exe
+C:\Users\Maxsi\source\repos\Domashka\Domashka\obj\Debug\Domashka.pdb
+C:\Users\Maxsi\OneDrive\Рабочий стол\Спирин\Domashka\Domashka\bin\Debug\Domashka.exe.config
+C:\Users\Maxsi\OneDrive\Рабочий стол\Спирин\Domashka\Domashka\bin\Debug\Domashka.exe
+C:\Users\Maxsi\OneDrive\Рабочий стол\Спирин\Domashka\Domashka\bin\Debug\Domashka.pdb
+C:\Users\Maxsi\OneDrive\Рабочий стол\Спирин\Domashka\Domashka\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\Maxsi\OneDrive\Рабочий стол\Спирин\Domashka\Domashka\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\Users\Maxsi\OneDrive\Рабочий стол\Спирин\Domashka\Domashka\obj\Debug\Domashka.csprojAssemblyReference.cache
+C:\Users\Maxsi\OneDrive\Рабочий стол\Спирин\Domashka\Domashka\obj\Debug\Domashka.Form1.resources
+C:\Users\Maxsi\OneDrive\Рабочий стол\Спирин\Domashka\Domashka\obj\Debug\Domashka.Properties.Resources.resources
+C:\Users\Maxsi\OneDrive\Рабочий стол\Спирин\Domashka\Domashka\obj\Debug\Domashka.csproj.GenerateResource.cache
+C:\Users\Maxsi\OneDrive\Рабочий стол\Спирин\Domashka\Domashka\obj\Debug\Domashka.csproj.CoreCompileInputs.cache
+C:\Users\Maxsi\OneDrive\Рабочий стол\Спирин\Domashka\Domashka\obj\Debug\Domashka.csproj.CopyComplete
+C:\Users\Maxsi\OneDrive\Рабочий стол\Спирин\Domashka\Domashka\obj\Debug\Domashka.exe
+C:\Users\Maxsi\OneDrive\Рабочий стол\Спирин\Domashka\Domashka\obj\Debug\Domashka.pdb
